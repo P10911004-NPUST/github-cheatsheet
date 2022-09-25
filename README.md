@@ -68,7 +68,7 @@
     ```
     
 
-![Capture.PNG](../Capture.png)
+![Capture.PNG](Capture.png)
 
 ### 2.3. SSH **private** key — ssh-agent
 
